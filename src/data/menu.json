@@ -1,0 +1,5 @@
+[
+  {"page": "home", "title": "หน้าหลัก", "icon": "home", "isSelect": false},
+  {"page": "history", "title": "ประวัติการพิมพ์", "icon": "history", "isSelect": false},
+  {"page": "print", "title": "ศูนย์พิมพ์ทั้งหมด","icon": "print", "isSelect": false}
+]
