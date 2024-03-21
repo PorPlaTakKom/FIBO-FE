@@ -1,14 +1,16 @@
-List Futrue Web Succeeded
-    Register Member 
-    Reset password
-    Login 
-    Add Model 3D (not support gcode)
-    Edit Profile
-    Staff (not support Timeline and Only UI)
-    Student (not support Timeline and Only UI)
-    Teacher (Only UI)
+## Future Web Succeeded
 
-How to start
-    Using NodeJS
-    npm install
-    npm run dev
+### Features:
+- Register Member
+- Reset Password
+- Login
+- Add 3D Model (Does not support gcode)
+- Edit Profile
+- Staff (Does not support Timeline, Only UI)
+- Student (Does not support Timeline, Only UI)
+- Teacher (Only UI)
+
+### How to Start:
+1. Install NodeJS
+2. Run `npm install` in the project directory
+3. Execute `npm run dev` to start the development server
